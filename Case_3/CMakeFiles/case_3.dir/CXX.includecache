@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vita/Desktop/CMake/Case_3/Main.cpp
+lib/add.h
+/Users/vita/Desktop/CMake/Case_3/lib/add.h
+iostream
+-
+
+/Users/vita/Desktop/CMake/Case_3/lib/add.h
+iostream
+-
+

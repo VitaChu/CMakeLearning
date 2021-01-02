@@ -1,0 +1,21 @@
+// 流程
+g++ -E HelloWorld.cpp -o HelloWorld.i // 预处理
+g++ -S HelloWorld.i                   // 编译
+g++ -c HelloWorld.s                   // 汇编 生成链接文件.o
+g++ HelloWorld.o -o HelloWorld.out    // 链接
+
+// makefile
+正点原子
+P15/P16/P17
+不同平台 makefile不公用
+cmake可以生成不同平台的makefile 解决了不同平台的makefile生成问题 
+
+
+src         // 用来放source code
+build       // 用来编译文件
+lib         // 用来放库文件夹
+CMakeLists.txt
+
+mkdir src 
+mkdir build
+

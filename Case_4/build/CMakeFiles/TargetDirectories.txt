@@ -1,0 +1,8 @@
+/Users/vita/Desktop/CMake/Case_4/build/CMakeFiles/rebuild_cache.dir
+/Users/vita/Desktop/CMake/Case_4/build/CMakeFiles/edit_cache.dir
+/Users/vita/Desktop/CMake/Case_4/build/lib/CMakeFiles/rebuild_cache.dir
+/Users/vita/Desktop/CMake/Case_4/build/lib/CMakeFiles/edit_cache.dir
+/Users/vita/Desktop/CMake/Case_4/build/lib/CMakeFiles/mylib.dir
+/Users/vita/Desktop/CMake/Case_4/build/src/CMakeFiles/rebuild_cache.dir
+/Users/vita/Desktop/CMake/Case_4/build/src/CMakeFiles/edit_cache.dir
+/Users/vita/Desktop/CMake/Case_4/build/src/CMakeFiles/case_4.dir

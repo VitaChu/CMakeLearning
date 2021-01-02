@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vita/Desktop/CMake/Case_4/lib/Print.h
+iostream
+-
+
+/Users/vita/Desktop/CMake/Case_4/lib/add.h
+iostream
+-
+
+/Users/vita/Desktop/CMake/Case_4/lib/lib.h
+Print.h
+/Users/vita/Desktop/CMake/Case_4/lib/Print.h
+add.h
+/Users/vita/Desktop/CMake/Case_4/lib/add.h
+
+/Users/vita/Desktop/CMake/Case_4/src/Main.cpp
+global.h
+/Users/vita/Desktop/CMake/Case_4/src/global.h
+iostream
+-
+
+/Users/vita/Desktop/CMake/Case_4/src/global.h
+../lib/lib.h
+/Users/vita/Desktop/CMake/Case_4/lib/lib.h
+iostream
+-
+

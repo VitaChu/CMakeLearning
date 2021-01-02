@@ -1,0 +1,6 @@
+/Users/vita/Desktop/CMake/Case_3/CMakeFiles/rebuild_cache.dir
+/Users/vita/Desktop/CMake/Case_3/CMakeFiles/edit_cache.dir
+/Users/vita/Desktop/CMake/Case_3/CMakeFiles/case_3.dir
+/Users/vita/Desktop/CMake/Case_3/lib/CMakeFiles/rebuild_cache.dir
+/Users/vita/Desktop/CMake/Case_3/lib/CMakeFiles/edit_cache.dir
+/Users/vita/Desktop/CMake/Case_3/lib/CMakeFiles/mylib.dir
